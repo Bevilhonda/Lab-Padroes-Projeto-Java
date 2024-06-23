@@ -3,6 +3,6 @@
 Lab "Explorando Padrões de Projetos na Prática com Java".</h3>
 <h3>Especificamente, este projeto explorou alguns padrões usando o Spring Framework, são eles: </h3>
 
-Singleton
-Strategy/Repository
-Facade
+<p>💎 Singleton</p>
+<p>💎 Strategy/Repository</p>
+<p> 💎Facade</p>
